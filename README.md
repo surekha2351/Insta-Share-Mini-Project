@@ -637,3 +637,7 @@ Returns a response containing the list of search posts.
 > - All components you implement should go in the `src/components` directory.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+<h1>Login Page</h1>
+<img src="https://res.cloudinary.com/drdjty87p/image/upload/v1683044415/React_App_-_Google_Chrome_02-05-2023_21_47_36_qwhfud.png" width="400" />
+<h1>Home Page</h1>
+<img src="https://res.cloudinary.com/drdjty87p/image/upload/v1683044416/React_App_-_Google_Chrome_02-05-2023_21_47_22_sskfxa.png" width="400" />
